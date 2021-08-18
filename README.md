@@ -1,2 +1,2 @@
 # naverScholar
-Scraper for Naver Academic
+Scrapers for 'network' by Dive of Kyunghyung
