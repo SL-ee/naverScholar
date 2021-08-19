@@ -1,2 +1,2 @@
 # naverScholar
-Scrapers for 'network' by Dive of Kyunghyang
+Scrapers for 'network project' by Dive of Kyunghyang
