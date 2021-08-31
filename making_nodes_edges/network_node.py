@@ -1,6 +1,6 @@
 import pandas as pd
 
-network = pd.read_excel("D:/listToNetwork.xlsx")
+network = pd.read_excel("D:/listToNetwork_test.xlsx")
 
 # 선언
 num = list(range(1, len(network.index))
